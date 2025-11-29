@@ -1,0 +1,101 @@
+question_id,display_name,title,answer_count,score,is_answered
+79832977,Stas Badzi,Is it possible to load a symbol from an executable,0,0,False
+79832663,Timbuck,Java project dependency jar - only part of new code being recognized,0,0,False
+79832652,davidto,Cant open more than 8000 tcp connections with Java,1,1,False
+79832635,JavaLatte,getResource returns null for a file that is listed by getResourceAsStream,0,1,False
+79832493,Aadish,What is setAllowUniversalAccessFromFileURLs(true),0,-4,False
+79832443,the,"`Filters.eq(fieldName, value)` not actually creating `$eq` causes issues",1,0,False
+79832191,Lson,How to add 64-bit OS check for Java 17 JavaFX app when packaging with launch4j-maven-plugin?,0,1,False
+79832184,user31958440,Why can I not seem to get gradle to work?,1,0,True
+79832067,Silver Hyangiraikyo,Exclude map name when parsing GSon to JSON,1,0,False
+79832040,Jeremy Lanssiers,Using Pagination &amp; Sorting in Spring Boot 4 with CrudRepository &amp; PagingAndSortingRepository,3,0,True
+79831997,Fatko,Formatting the first symbol of a string to be upper case - a private method or formatting on the go?,1,-5,True
+79831984,Snilspefad,HTTP-403 when authentication in spring authentication server after /login in spring cloud gateway,0,0,False
+79831901,toreitc,m2e Workspace Resolution Broken After Upgrading from Eclipse 2021 to 2025,0,2,False
+79831892,Hamza Belmellouki,How to copy a fully qualified method reference in VS Code (like IntelliJ’s &quot;Copy Reference&quot;)?,1,0,False
+79831835,Kannan J,Need help understanding why this Locksupport.park hangs indefinitely,0,1,False
+79831810,Daniel,Losing MDC in Quarkus ManagedExecutor,0,0,False
+79831753,sii desarrollo2,Error: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException:,0,0,False
+79831723,Neph,&quot;command is either misspelled or could not be found&quot; with Win 11 but not Win 10,1,0,False
+79831694,Daniel Junglas,Memory leak in JNI with AttachCurrentThread() and DetachCurrentThread(),0,3,False
+79831621,杨尚山,How does the JVM instruction getfield work?,1,0,True
+79831562,Sergey Zolotarev,Intercepting user toggle button clicks,1,0,False
+79831513,FrJ,Spring Boot: 400 Bad Request when sending JSON to POST endpoint (request body always null),1,0,False
+79831506,Wim Deblauwe,How to fail at startup in Spring Boot 4 if the base-url property is not set?,1,1,True
+79831452,Sudharshan Reddy,Errors while starting Wildfly 35.0.1 server which is configured for jasper reports 9.0.0,0,0,False
+79831450,kiruba T,Hugging Face /hf-inference/v1/chat/completions returns 422 in Eclipse plugin,0,0,False
+79831382,tjDoe,Spring Boot CORS preflight request returns 403 &quot;Invalid CORS request&quot; for POST /login,0,0,False
+79831364,Waluigi Apparition,How do I code a binary search involving two arrays of words?,0,-3,False
+79831351,Sundar D,Facing error while creating CSR certificate using Openssl inside a javacode using process builder,0,-1,False
+79831217,CraigFoote,How do I prevent a Maven mojo parameter from being encoded on write to XML?,0,0,False
+79831145,AV_Dev,Tournament Sort Correction,0,-3,False
+79830491,Wim Deblauwe,How to configure HTTP Service Clients with Protobuf in Spring Boot 4?,1,0,True
+79830456,Buffalo,BigQuery data is not inserted in tables,0,0,False
+79830440,Manas Ranjan Das,Force full expression evaluation or disable short-circuiting logic in SpEL expressions,1,2,True
+79830374,Axion,Spring aspect method Not Called,0,-3,False
+79830299,Guppy_00,Springboot custom validator in Service class is executed twice,1,1,False
+79830290,Matt Lindsey,Rendering Text to an Image in Java,1,1,True
+79830181,zajer,Casting collection&lt;implementation&gt; to collection&lt;interface&gt;,0,0,False
+79830076,horsemeat,Constructor not accepting list of derived class as argument,1,0,True
+79830071,Hardik Kumar,How to change Intellij Terminal font colors,1,-3,False
+79830064,gordon613,How to trigger &quot;Copy&quot; on notification,0,0,False
+79829987,Yumna Nizar,How to draw Class diagram of class which includes only main(),0,-1,False
+79829984,Gurkirat Singh,Why does my Java code behave differently inside a loop when checking conditions using a HashSet?,1,1,True
+79829952,Lucy,"H2 Database connects in IDE, but not from console or as a JAR file",2,0,True
+79829867,Antonn Karolk aertonsena,java.lang.ClassNotFoundException: class org.apache.activemq.jndi.ActiveMQInitialContextFactory not found at run time,0,0,False
+79829722,Naveen.P,How to debug on stage environment on AEM Cloud for custom service Interface and implementation class,0,-1,False
+79829714,Arkadi,Error when running a Spring Boot image in Docker: open /workspace/BOOT-INF/classes/db: permission denied,1,0,True
+79829628,Sven,"Is Thymeleaf still maintained, and is there a Thymeleaf version compatible with Spring Boot 4 / Spring Framework 7?",3,2,True
+79829598,pradhan,Group and process unordered records in a CSV file with Spring Batch,2,0,False
+79829547,Sergey Zolotarev,IntelliJ IDEA doesn&#39;t see type from .m2 jar,1,0,False
+79829533,MatterOfFact,Axon Framework with Spring: Run queries in read only spring transaction,0,0,False
+79829457,Andrea,"Constructor-based dependency injection fails when requesting bean via beanFactory.getBean(Command.class, dto) in Spring Boot",0,0,False
+79829352,kiruba T,java.lang.ClassNotFoundException: okio.Buffer when using OkHttp inside Eclipse plugin (OSGi),2,0,False
+79829337,St.Antario,Custom annotation for performing customized injection logic,1,0,True
+79829257,Nicolas Medeiros Cascaes,Spring Boot @RestControllerAdvice works locally but not on Render deployment,0,1,False
+79829102,Lolliker 1,Struggling to implement different viewports in an application adapter from LibGDX,1,1,False
+79829043,JavaLearner,Drools cannot load DRL files from multiple folders inside Spring Boot executable JAR (LaunchedURLClassLoader issue),1,1,True
+79829032,Peter Penzov,"Incompatible equality constraint: Map&lt;String, Object&gt; and GetResponse",1,0,False
+79828884,Gojita,Suppress parameter from module class method,0,0,False
+79828796,Njhasty,Flyway migration unable to create relation (table) when attempting to add table to Java API,0,0,False
+79828739,user31937035,Android API NFC Antenna location incorrect,0,-2,False
+79828614,Nikhil Dubey,java.lang.IllegalStateException: getAttribute: Session already invalidated when calling API locally,0,-1,False
+79828603,dschulten,ApplicationModuleTest - BeanInstantiationException: No repository found for type,1,0,False
+79828518,Nidhi257,Java Code | How to configure and scan file from clamAV server,2,0,True
+79828472,Brundha Srinivas,Cannot find MockBean in Spring Boot 4.0.0,1,2,True
+79828471,holeInWater,Drools rule fails for genuine use case at high scale,0,1,False
+79828390,Mitesh Firake,Lightweight Spring Boot Setup for Beginners: Zed editor,5,0,True
+79828357,H&#252;seyin &#199;ataloğlu,Returning audio or video from Spring Boot Restful Api,0,-4,False
+79828147,Joe,How to write rdf4j Model to a string while preserving the original structure?,1,0,True
+79828104,user3561614,How to disable the “minimize” button in AndroidX CustomTabs?,0,0,False
+79828003,strubin,Unable to change the VLCJ audio delay,1,1,True
+79827818,Maksiks,Is it possible to link/run Gradle tasks in comments in IntelliJ Idea?,0,-1,False
+79827809,Sybuser,How can I apply &quot;organize imports&quot; action programmatically in an Eclipse batch application?,0,2,False
+79827783,los,Does it safe to modify the oldValue of remappingFunction in java.util.Map#merge?,3,0,True
+79827774,Robert Hume,Inconsistent behavior of DELETE_ON_CLOSE between platforms,1,3,True
+79827728,JZARGO,Mockito ArgumentMatchers.any(Class) for varargs parameter does not match,1,0,True
+79827725,NDK,PackageManager.getInstallerPackageName() returning unexpected packages as installers,0,0,False
+79827611,Luna,"I need to create an array that contains the values of the attributes of an object, but Object.values(obj) does not work",0,-8,False
+79827437,haoz,spring boot web polish characters encoding problem,1,1,True
+79827307,Quaky,Get a list of relationships from Neo4J repository using Spring,1,0,False
+79827231,MANOJ V,"Push Notifications not working in my Vite + React + Spring Boot project (WebSockets, VAPID, AWS SNS, FCM all attempted)",0,-6,False
+79827227,VR7,MongoTimeoutException in Testcontainers Integration Test : Open Liberty app attempts to connect to Kubernetes FQDNs instead of local alias,1,0,False
+79827192,ronihasan,Android AccessibiltyService : How can I enabling perform action on a sealed instance,0,0,False
+79827180,sebkaminski16,Why is FileReader as efficient as BufferedReader in reading 1KB chunks of data?,5,0,True
+79827170,Aakash_Deep,What happens when uploading a large file from client browser to my Spring boot server if I delay reading the multipart file from input stream?,0,0,False
+79827044,Syed Maroof Hussain,"JNA CoCreateInstance returns S_OK but ShellLink/IShellLinkW fails, COM pointer is non-null but object unusable",1,1,True
+79827034,Bear Bile Farming is Torture,How to set a background image for the WebView on an android app built with React DOM + Capacitor v7?,1,0,False
+79826961,bkqdad,Mapstruct and multiple derived classes,0,0,False
+79826821,Bogysh,IdempotencyBreachExceptionHandling in service used in kafka listener,0,1,False
+79826790,Suswetha,Why does using &gt;= increase merge sort time complexity,2,0,True
+79826777,Aleksander,TdLib SearchMessages misses the latest message,0,0,False
+79826692,riskop,&quot;DefaultJpaDialect does not support custom isolation levels&quot; when upgrading to spring batch 5,0,0,False
+79826651,VFMiracle,Spring Boot Dashboard in VS Code isn&#39;t displaying one of the project&#39;s modules,0,0,False
+79826579,alex_pythooon,Is there a Database First approach in Java like Entity Framework in C#?,4,0,True
+79826534,user31921588,"what is error in this code ,code get error when i submit in the leedcode",0,-12,False
+79826514,ivvasch,Spring Security 3.1.4 requestmatchers with Pathvariable,0,0,False
+79826502,AMZ,why java stream api is one time use but reactor&#39;s publisher not?,2,0,True
+79826409,Pasindu,How to route messages from a single JMS producer to one of multiple MDBs based on conditions?,0,0,False
+79826301,Arjun Asokan,BridgeLink 4.6.0: How to validate XML against XSD (with dependent imports) using Lookup Manager? Java access removed,1,0,False
+79826251,Melad Basilius,Bruce Eckel : Constructor is a static method,4,0,True
+79826008,Christopher Pray,Why does Vscode still give me package not found error with Weka after referencing the JAR file in classpath?,0,-4,False
