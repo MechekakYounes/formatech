@@ -5,7 +5,7 @@ import time
 API_URL = "https://api.stackexchange.com/2.3/questions"
 tags_input = input("Enter tags separated by commas (e.g., 'python,pandas,keras'): ")
 tags = [tag.strip() for tag in tags_input.split(",")]
-file_name = tags_input.replace(",", "_") + "_questions.csv"
+file_name =  'C:\\Users\\Administrator\\Desktop\\Bi\\facebook_sentiment_intelligence\\scraper\\raw_datasets\\' + tags_input.replace(",", "_") + "_questions.csv"
 questions = []
 
 for tagged in tags:  # distribute 2500 questions evenly among tags
@@ -20,7 +20,7 @@ for tagged in tags:  # distribute 2500 questions evenly among tags
             "sort": "creation",
             "tagged": tagged,
             "site": "stackoverflow",
-            "pagesize": 100,
+            "pagesize": 1,
             "page": page
         }
 

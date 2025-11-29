@@ -1,0 +1,51 @@
+tag,question_id,display_name,title,answer_count,score,is_answered
+php,79833175,hamid-davodi,why does the_field function of acf plugin return an empty value?,3,2,True
+php,79832996,melkmeshi,phpstan complains about @var builder<producttemplate> in laravel eloquent scope,1,2,True
+php,79832473,nexusmusic,azure table php retrieve latest data first with pagination,0,0,False
+php,79832291,Elton,how to change the title of the billing field?in woocommerce,2,2,False
+php,79832281,mstdmstd,why image::make of spatie/laravel-medialibrary raised error?,1,0,True
+php,79831748,d3LTa7,how to install league/csv bundle with doctrine v3.3 on symfony?,0,0,False
+php,79831483,Kilometer Bob,404 on certain files on select devices after repeated visits,0,0,False
+php,79830435,Kevin Waterson,how to authenticate api routes in laravel 12 using sanctum,0,-1,False
+php,79830360,Evan Fersadi,why does laravel read the schema as if it had 2 primary keys?,1,1,True
+php,79830359,Leandro Caplan,avoiding redundant data in an eloquent model instance,2,2,False
+php,79830020,Joynal Abed,"best way to load a custom js file only on woocommerce product pages with a block theme (fse), not want killing full-page cache?",2,0,True
+php,79829739,Mohammad Pourbehzad,how can i use local storage for filament export in production?,1,0,True
+php,79829501,Nathan30,url gets generated with &amp; instead of &,0,0,False
+php,79829197,Jimski,why do some web browsers incorrectly display currencies produced by numberformatter,1,3,True
+php,79829073,MARCIA MOORE,how do put text from a text file in my webpage,0,-3,False
+php,79828959,zer0uno,load different service providers based on the environment,1,0,False
+php,79828683,Jayadeepan M,how to close the whatsapp in-app browser?,0,-1,False
+php,79828630,cari,laravel fortify ignores custom guard for 2fa,1,3,True
+php,79828542,mouad12300,deploying a livewire and flux laravel project on xampp and cpanel,2,0,False
+php,79828493,mouad12300,problem searching using blind index in laravel,1,3,True
+php,79828444,user29255210,how to implement session-based rate limiting instead of ip-based for wordpress plugin?,1,1,True
+php,79828440,Rootsman,"deploy laravel version 12 (php, inertia, reactjs, tailwind) to cpanel shared with no ssh access",5,0,True
+php,79828385,mankowitz,does database chunk() have a memory leak?,0,0,False
+php,79828308,Nicer Ata,how can i update multiple elementor button links globally from one place in wordpress?,0,-2,False
+php,79827989,user31931795,retrieving values ​from 2 tables at the same time in cakephp 3,0,0,False
+pandas,79833029,Edy,how to modify mulitple columns applying if else to multiple pandas dataframe columns,2,0,False
+pandas,79831600,Billy Pilgrim,use pandas merge_asof to achieve inexact left join,1,3,True
+pandas,79830823,Bhumika Aggarwal,why does groupby().apply() produce inconsistent results on identical groups when the dataframe has overlapping indices?,1,0,False
+pandas,79830815,Kan,using list to find variables from data in rows,1,-1,True
+pandas,79830100,user28348051,best way to clean awkward excel column headers in python/pandas?,3,1,True
+pandas,79829898,toben aus,how to split dataframe into multiple sub-dataframes based on column value,4,2,True
+pandas,79828200,Mike T,how to resample timeseries with origin aligned to start of year,2,5,True
+pandas,79826932,Margot Sibson,how to create a pandas dataframe from json nested objects,2,0,True
+pandas,79825662,Ethan MK,pandas converts excel strings like ‘2004e205’ to scientific notation — how to prevent this,1,1,True
+pandas,79825394,Rainb,how to export or import toon in pandas?,2,0,False
+pandas,79823495,Hamza Rehan,problem converting a column to datetime format,1,2,True
+pandas,79822801,Max Pierini,efficiently get first indices of consecutive identical digits in big pandas dataframes,2,3,True
+pandas,79822774,Mauricio Reisdoefer,how to count appearance of all items in a row on pandas dataframe,1,0,True
+pandas,79822584,Juan Si&#233;cola,"problem on the x-axis of the graph, doesn't render the time",1,2,True
+pandas,79821609,Ravshanjon Ahmadjonov,how to combine two pandas dataframes,0,-4,False
+pandas,79821379,user2138149,slow database table insert (upload) with pandas to_sql. what is the fastest method?,6,0,True
+pandas,79821366,Semyaz,how to get a true/false without duplicates when comparing two pandas dataframes?,2,1,True
+pandas,79821337,Javad Faraji,"not displaying dataframe's name in data wrangler extension of vscode, displaying ""data grid""",0,12,False
+pandas,79821258,Juan Si&#233;cola,set states to indicate on and off with timestamp,1,0,True
+pandas,79821053,user1982778,"python, parse nested json to make it flat for csv",1,1,True
+pandas,79820376,Tyler,export pandas.dataframe.column.name attribute during pd.to_excel() export,1,4,True
+pandas,79820251,MikeB2019x,pandas merge on one of two criteria,0,0,False
+pandas,79819326,user1700890,no module named 'pyspark.sql.metrics' when working with pickle or joblib on databrick,1,0,True
+pandas,79819301,jkang,list of paths and sizes to sunburst plot,0,0,False
+pandas,79819252,Juan Si&#233;cola,use of melt into a df for long to wide and df.loc,1,1,True
