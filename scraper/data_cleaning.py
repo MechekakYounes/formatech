@@ -11,12 +11,11 @@ def clean_data(file_path: str) -> pd.DataFrame:
     """
     df = pd.read_csv(file_path)
 
-    # Remove duplicates based on question_id
+    # rremove duplicates based on question_id
     df = df.drop_duplicates(subset=['question_id'])
 
-    # Remove HTML tags from titles
-    df['title'] = df['title'].apply(html.unescape)
-    df['title'] = df['title'].str.replace(r'$eq', '=', regex=True)
+    df['title'] = df['title'].apply(html.unescape)  # remove html tags and entities
+    df['title'] = df['title'].str.replace(r'$eq', '=', regex=True) # replace $eq with = 
     df['title'] = df['title'].str.lower()
 
     return df

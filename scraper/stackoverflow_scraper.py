@@ -20,7 +20,7 @@ for tagged in tags:  # distribute 2500 questions evenly among tags
             "sort": "creation",
             "tagged": tagged,
             "site": "stackoverflow",
-            "pagesize": 1,
+            "pagesize": 100,
             "page": page
         }
 
